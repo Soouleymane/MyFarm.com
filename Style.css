@@ -206,7 +206,7 @@ h2
  {
     header
     {
-        padding: 5px;
+        padding: 10px;
     }
     .A1 img
 {
@@ -228,6 +228,7 @@ h2
 .text{
     order: 2;
     padding: 10px;
+    align-items: center;
 }
 
  }   
